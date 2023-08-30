@@ -1,0 +1,94 @@
+.variant_h1 {
+  color:white;
+  font-size: 12vw;
+
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+
+  line-height: 20%;
+}
+
+.discography_heading{
+  color:white;
+  font-size: 10vw !important;
+
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+}
+
+.variant_h2 {
+  color:white;
+  font-size: 82px;
+
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+
+
+  line-height: 80%;
+}
+
+.variant_h3 {
+  color:white;
+  font-size: 96px;
+
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.variant_h4 {
+  color:white;
+  font-size: 84px;
+
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+  line-height: 70%;
+}
+
+.variant_h5 {
+  color:white;
+  font-size: 48px;
+
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.variant_h6 {
+  color:white;
+  font-size: 22px;
+
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.variant_p {
+  color:white;
+  font-size: 28px;
+
+  font-family: "roc-grotesk", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.color_primary {
+  color: var(--font-primary);
+}
+
+.color_error {
+  color: var(--error);
+}
+
+.color_success {
+  color: var(--success);
+}

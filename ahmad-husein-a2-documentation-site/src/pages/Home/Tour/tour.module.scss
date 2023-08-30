@@ -1,0 +1,24 @@
+.tour{
+padding: 50px 0px 0px 0px;
+} 
+
+.location{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px solid white;
+  padding: 20px 0px 0px 0px;
+  margin: 0px 0px 20px 0px;
+}
+
+.date{
+  display: flex;
+  flex-direction: row;
+  align-items: center ;
+  justify-content: space-between;
+  padding: 0px 0px -10px 0px;
+}
+
+.date div{
+  padding: 12px 20px 0px 0px;
+}

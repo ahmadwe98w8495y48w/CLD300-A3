@@ -1,0 +1,38 @@
+.design{
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.column1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.heading{
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: column;
+  margin-bottom: 100px;
+  margin-left: -100px;
+}
+  
+.column2{
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+} 
+
+.row1 div{
+  padding-bottom: 30px;
+  padding-right: 15px;
+}
+
+.row2 div{
+  padding-bottom: 30px;
+}
+

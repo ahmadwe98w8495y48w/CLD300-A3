@@ -1,0 +1,35 @@
+
+:root {
+  // font
+  --font: "Roc Grotesk", sans-serif;
+  
+  //color
+  --background-primary: #1f1f1f;
+  --background-secondary: #1f1f1f;
+  --font-primary: #262626;
+  --font-secondary: #8e8e8e;
+  --border-primary: #dbdbdb;
+  --border-secondary:#efefef;
+  --link-primary: white;
+  --link-primary: rgb(170, 170, 170);
+
+  --link-secondary: white;
+  --error: #f64a00;
+  --success: #21f736;
+  
+  //shortcuts
+  --bd:1px solid var(--border-primary);
+  --br:3px;
+}
+
+// this css will used to create a 'dark mode' version of the page. 
+// we will add a 'dark mode' toggle switch to the Navigation.js component.
+// when the toggle is clicked, the .dark class will be added to the body tag, 
+//causing these styles to overwrite the :root vars
+.dark{
+  --background-primary: #282828;
+  --background-secondary: #3b3b3b;
+  --font-primary: #ffffff;
+  --font-secondary: #e6e6e6;
+  --border-primary: #494949;
+}

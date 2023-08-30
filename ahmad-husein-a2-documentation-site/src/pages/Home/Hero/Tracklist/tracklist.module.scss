@@ -1,0 +1,30 @@
+.tracklist{
+  margin: 610px -480px 0px 0px ;
+  position: absolute;
+}
+
+.cta{
+  display: flex;
+  justify-content: end;
+}
+
+.tracks{
+  padding: 40px 180px 70px 180px;
+}
+
+.track{
+  display: flex;
+  flex-direction: row;  
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time{
+  display: flex;
+  flex-direction: row;  
+  align-items: center;
+}
+
+.time i{
+  padding-left: 20px;
+}
